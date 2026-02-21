@@ -39,7 +39,7 @@ Trained and evaluated multiple classifiers:
 ## Files
 - `statute-barred prediction.ipynb` — main notebook (cleaning → preprocessing → models → evaluation)
 - `Company_x.xlsx` — dataset (add to repo or provide download instructions)
-- `assets/` — (optional) output plots (ROC curve, confusion matrix)
+
 
 ## Tech stack
 - Python
